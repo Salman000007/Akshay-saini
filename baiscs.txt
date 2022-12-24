@@ -11,3 +11,20 @@ A CDN (Content Delivery Network) is a group of servers spread out over many loca
  3) What is defer and async
 
  If you’re working with JavaScript, it’s important to understand the difference between async and defer attributes. Async allows your script to run as soon as it’s loaded, without blocking other elements on the page. Defer means your script will only execute after the page has finished loading.
+
+ 4) Diffrence betweeen framework and Library?
+
+#Framework            	            
+1.	It comprises of lot of APIs , compilers , support programs , libraries etc. 
+2.	It is difficult to replace frameworks.
+3.	A framework development requires a lot of code that decrease performance and increase the load time.
+4.	Including framework smoothly into an existing project is impossible.
+5.	Its example are AngularJS , Spring , NodeJS , etc.
+
+#Library
+1. It is a collection of helper modules , classes , objects , functions , pre-written code , etc.
+2. A library is easy to be replaced with another library.
+3. Building a library requires less code , so there is better performance and fast load time.
+4. Libraries can be integrated easily into existing projects to add some specific functionality.
+5. Its example are JQuery , React JS , etc. 
+
